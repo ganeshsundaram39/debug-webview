@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Debug WebView</string>
+    <string name="button_text">Go</string>
+    <string name="url_hint">Enter Url</string>
+</resources>
